@@ -55,8 +55,7 @@ This indicates that while Toys dominate in sales and profitability, Electronics 
 **2. Sales Trends by Location**
 A closer look at sales trends across locations reveals that Downtown locations generate the highest sales and gross profit. This is consistent across nearly all product categories. In contrast, Airport locations show weaker sales and profits, which could be attributed to factors like limited foot traffic or less targeted consumer segments.
 
-Top Performing Locations:
-
+*Top Performing Locations:*
 Toys and Electronics dominate in Downtown locations, with Toys Downtown leading with a gross profit of $630,029.
 Electronics Downtown follows closely with $502,490.
 Underperforming Locations:
@@ -65,8 +64,7 @@ Airport locations consistently underperform across categories, with Sports & Out
 This points to the need for targeted promotions or product-specific strategies in lower-performing locations, particularly Airports, to boost sales and profitability.
 
 **3. Product Performance Insights**
-Top 5 Profitable Products:
-
+*Top 5 Profitable Products:*
 Lego Bricks leads the product list with a total sales amount of $2,388,883, solidifying its position as a strong revenue generator.
 Colorbuds follows with $1,564,476, demonstrating a consistent demand across various locations.
 Interestingly, Magic Sand and Action Figures also show strong profitability, with Magic Sand at $968,962 and Action Figures at $926,748, indicating a trend towards products that engage kids in creative play.
