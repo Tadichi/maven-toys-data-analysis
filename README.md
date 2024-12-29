@@ -108,3 +108,11 @@ Profitability Tracking: Review sales and inventory turnover regularly for adjust
 Customer Preferences: Analyze trends and adjust product offerings based on customer feedback.
 
 
+## Caveats and Assumptions
+During this analysis, several assumptions and caveats were made to ensure the project’s feasibility:
+- Data Completeness: The analysis is based on the assumption that the provided sales and inventory data is accurate and complete. Any missing or erroneous data may impact the insights.
+- Market Stability: The recommendations assume that market conditions and consumer behavior will remain stable. External factors, such as economic downturns or supply chain disruptions, may affect sales trends and inventory needs.
+- Consistency in Product Categories: It is assumed that product categories have remained consistent over the analyzed period. Any changes in product categorization could impact the results.
+- Historical Trends: Trends from 2017-2018 are used as indicators, but future performance may differ due to changing market dynamics or consumer preferences.
+- Location-Specific Insights: Sales and profitability insights for specific locations (e.g., Downtown, Airport) assume that the demographic and shopping behavior of these areas remains constant.
+
